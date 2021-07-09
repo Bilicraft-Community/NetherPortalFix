@@ -1,0 +1,5 @@
+name: NetherPortalFix
+version: ${project.version}
+main: com.bilicraft.netherportalfix.NetherPortalFix
+api-version: 1.17
+description: 修复卡下界门的问题
